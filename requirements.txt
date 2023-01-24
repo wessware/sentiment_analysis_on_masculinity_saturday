@@ -1,3 +1,8 @@
 nltk
 snscrape
 pandas
+transformers
+simpletransformers 
+wordcloud
+scikit-learn
+tensorflow
