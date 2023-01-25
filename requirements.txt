@@ -6,3 +6,4 @@ simpletransformers
 wordcloud
 scikit-learn
 tensorflow
+imblearn
