@@ -12,21 +12,40 @@ Positive, Negative, or Negative, the volume of positivity, negativity, or neutra
 ## Key models
 
 ### Machine Learning 
-<ul>
-<li> Gaussian Naive Bayesian (GNB) <li/>
-<li> Random Forests (RF) <li/>
-<li> Extreme Gradient Boosters (XGB) <li/>
-<li> Categorical Boosters (CatBoost) <li/>
-<ul/>
+
+<ol>
+  <li> Gaussian Naive Bayesian (GNB) <li/>
+
+  <li> Random Forests (RF) <li/>
+
+  <li> Extreme Gradient Boosters (XGB) <li/>
+
+  <li> Categorical Boosters (CatBoost) <li/>
+<ol/>
 
 ### Deep Learning
-Bert Transfomers
-Roberta Transformers
+  
+<ol>
+  <li> Bert Transfomers <li/>
+  <li> Roberta Transformers <li/>
+ <ol>
+
+
 
 ## F1 Scores
-GNB ==> 0.78
-RF ==> 0.90
-XGB ==> 0.80
-CatBoost ==> 0.83
-Bert ==> 0.97
-Roberta ==> (not yet trained)
+
+ <ul>
+   <li> GNB ==> 0.78 <li/>
+   <li> RF ==> 0.90 <li/>
+   <li> XGB ==> 0.80 <li/>
+   <li> CatBoost ==> 0.83 <li/>
+   <li> Bert ==> 0.97 <li/>
+   <li> Roberta ==> (not yet trained) <li/>
+ <ul/>
+   
+
+
+
+
+
+
