@@ -1,4 +1,4 @@
-# sentiment_analysis_on_masculinity_saturday
+# Sentiment Analysis On Masculinity Saturday
 
 The Amerix movement has gained popularity in Kenya [and beyond] over the recent years. It was initiated in the year 2019 [by Eric Amunga], and has grown to thousands of 
 followers across select social media platforms. The movements key points of focus are Mens Health and wellness & reproductive health. The agenda of the movement is
@@ -12,11 +12,12 @@ Positive, Negative, or Negative, the volume of positivity, negativity, or neutra
 ## Key models
 
 ### Machine Learning 
-
-Gaussian Naive Bayesian (GNB)
-Random Forests (RF)
-Extreme Gradient Boosters (XGB)
-Categorical Boosters (CatBoost)
+<ul>
+<li> Gaussian Naive Bayesian (GNB) <li/>
+<li> Random Forests (RF) <li/>
+<li> Extreme Gradient Boosters (XGB) <li/>
+<li> Categorical Boosters (CatBoost) <li/>
+<ul/>
 
 ### Deep Learning
 Bert Transfomers
