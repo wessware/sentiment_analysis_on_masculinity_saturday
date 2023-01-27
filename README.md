@@ -29,12 +29,12 @@ The project deploys top-level Machine Learning and Deep Learning models and arch
 ## F1 Scores
 
  <ul>
-   <li> GNB ==> 0.78 </li>
-   <li> RF ==> 0.90 </li>
-   <li> XGB ==> 0.80 </li>
-   <li> CatBoost ==> 0.83 </li>
-   <li> Bert ==> 0.97 </li>
-   <li> Roberta ==> (not yet trained) </li>
+   <li> Bert == 0.97 </li>
+   <li> Roberta == 0.96 </li>
+   <li> RF == 0.90 </li>
+   <li> CatBoost == 0.83 </li>
+   <li> XGB == 0.80 </li>
+   <li> GNB == 0.78 </li>
  </ul>
    
 
