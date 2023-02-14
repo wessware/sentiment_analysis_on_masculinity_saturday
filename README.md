@@ -1,5 +1,7 @@
 # Sentiment Analysis On Masculinity Saturday
 
+![download](https://user-images.githubusercontent.com/46624127/218772510-31edd966-fbc9-47f9-81bd-169d36adeeca.png)
+
 ## Project Description 
 
 The Amerix movement has gained popularity in Kenya [and beyond] over the recent years. It was initiated in the year 2019 by [Eric Amunga], and has grown to thousands of followers across select social media platforms. The movements key points of focus are Mens Health and wellness & reproductive health. The Agenda & Philosophy of the movement is
