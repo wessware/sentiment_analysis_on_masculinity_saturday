@@ -19,25 +19,25 @@ The project deploys top-level Machine Learning and Deep Learning models and arch
   <li> Random Forests (RF) </li>
   <li> Extreme Gradient Boosters (XGB) </li>
   <li> Categorical Boosters (CatBoost) </li>
-</ol>
 
 ### B.  Deep Learning
   
-<ol>
   <li> Bert Transfomers </li>
   <li> Roberta Transformers </li>
+  <li> Twitter_Roberta </li/>
  </ol>
 
 ## F1 Scores
 
- <ul>
+ <ol>
    <li> Bert == 0.97 </li>
    <li> Roberta == 0.96 </li>
    <li> RF == 0.90 </li>
    <li> CatBoost == 0.83 </li>
    <li> XGB == 0.80 </li>
    <li> GNB == 0.78 </li>
- </ul>
+   <li> Twitter-Roberta == (pending) </li/>
+ </ol>
    
 
 
