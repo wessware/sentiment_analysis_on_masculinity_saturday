@@ -24,7 +24,8 @@ The project deploys top-level Machine Learning and Deep Learning models and arch
   
   <li> Bert Transfomers </li>
   <li> Roberta Transformers </li>
-  <li> Twitter_Roberta </li/>
+  <li> Twitter-Roberta </li/>
+  <li> TwitterNLP </li/>
  </ol>
 
 ## F1 Scores
@@ -37,6 +38,7 @@ The project deploys top-level Machine Learning and Deep Learning models and arch
    <li> XGB == 0.80 </li>
    <li> GNB == 0.78 </li>
    <li> Twitter-Roberta == (pending) </li/>
+   <li> TWitterNLP == (pending) </li/>
  </ol>
    
 
